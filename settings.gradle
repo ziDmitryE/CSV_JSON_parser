@@ -1,0 +1,3 @@
+rootProject.name = 'CSV_JSON_parser'
+include 'Employee'
+
